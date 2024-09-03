@@ -7,7 +7,7 @@ Sample Visualizing Screen output
 
 ![Alt text](images/output1.png)
 
-The Below Snapshots Represents the single word patter and multiword patter search uing KMP Algorithm.
+The Below Snapshots Represents the single word patter and multiword patter search using KMP Algorithm.
 
 ![Alt text](images/output2.png)
 
