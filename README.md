@@ -7,13 +7,19 @@ Sample Visualizing Screen output
 
 ![Alt text](images/output1.png)
 
-The Below Snapshots Represents the single word patter and multiword patter search using KMP Algorithm.
+## The Below Snapshots Represent the *Single Word Pattern* and **_Multiword Pattern_** Search Using **KMP Algorithm**
 
-![Alt text](images/output2.png)
-
------ Multiword--------
-
-![Alt text](images/output3.png)
+- *Single Word Pattern*: 
+  - **Snapshot 1**: ![Single Word Pattern](images/output2.png)
+  
+- **_Multiword Pattern_**:
+  - **Snapshot 2**: ![Multiword Pattern](images/output3.png)
+  
+- _For more details, refer to the following:_
+  - **KMP Algorithm Documentation**
+  - **Search Patterns**: **`<pattern>`**  _(highlighted text)_ and _**`<pattern>`**_
+  
+__**Note**__: _The snapshots represent the functionality of the KMP algorithm._
 
 Implementation has a few drawbacks and areas that could be improved....
 1. Inefficient Visualization:
@@ -30,3 +36,16 @@ Thanks!
 This was Miniproject of my 4th Semester.
 -- If anf Future Inprovements please help let me know -- 
 contact: sunilr31r@gmail.com DM ME..
+
+How to Run the Program in Command Line(win/linux)
+
+Prerequists JAVA JRE and JDK any version
+
+1 - compile the java program
+
+javac KMPVisualizer.java
+
+2 - After Compiling the Program, Run it!
+
+java KMPVisualizer
+
