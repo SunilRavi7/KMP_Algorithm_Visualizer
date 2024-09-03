@@ -3,3 +3,6 @@ Knuth Morris Pratt Pattern Matching Algorithm Visualizer s similar to the naive 
 
 ![Alt text](images/KMP.png)
 
+Sample Visualizing Screen output
+
+![Alt text](images/output1.png)
