@@ -37,15 +37,17 @@ This was Miniproject of my 4th Semester.
 -- If anf Future Inprovements please help let me know -- 
 contact: sunilr31r@gmail.com DM ME..
 
-How to Run the Program in Command Line(win/linux)
+## How to Run the Program in Command Line (Windows/Linux)
 
-Prerequists JAVA JRE and JDK any version
+**_Prerequisites:_** *JAVA JRE and JDK (any version)*
 
-1 - compile the java program
+1. **_Compile the Java program_**
 
-javac KMPVisualizer.java
+   **`javac KMPVisualizer.java`**
 
-2 - After Compiling the Program, Run it!
+2. **_After compiling the program, run it!_**
 
-java KMPVisualizer
+   **`java KMPVisualizer`**
+
+_The steps above should work in both Windows and Linux environments._
 
